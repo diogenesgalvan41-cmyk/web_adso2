@@ -1,0 +1,6 @@
+com\mycompany\web_adso2\EditarUsuarioServlet.class
+com\mycompany\web_adso2\LoginServlet.class
+com\mycompany\web_adso2\LogoutServlet.class
+com\mycompany\web_adso2\EliminarUsuarioServlet.class
+com\mycompany\web_adso2\ListaUsuariosServlet.class
+com\mycompany\web_adso2\CrearUsuarioServlet.class
